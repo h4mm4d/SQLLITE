@@ -19,7 +19,8 @@ Tools used in this analysis are Python, Pandas, SQLite, SQLAlchemy and Flask. Wh
 
 3. However, minimum temperature slightly different as it could get as cold as 56 degrees in December but the lowest in summer is 64 degrees.  
 
-![June Weather](https://github.com/h4mm4d/surfs_up/blob/main/June.PNG?raw=true) ![December Weather] (https://github.com/h4mm4d/surfs_up/blob/main/December.PNG?raw=true) 
+![June Weather](https://github.com/h4mm4d/surfs_up/blob/main/June.PNG?raw=true) 
+![December Weather](https://github.com/h4mm4d/surfs_up/blob/main/December.PNG?raw=true) 
  
  
 
